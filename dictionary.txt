@@ -20,4 +20,4 @@
 - Hund: Dog 
 - Doener: A type of meat kebab.
 - Apfelkuchen: Apple cake. 
-- Eltz: A medieval castle between Koblenz and Trier, Germany. 
+- Eltz: A medieval castle between Koblenz and Trier, Germany; A noble family.
