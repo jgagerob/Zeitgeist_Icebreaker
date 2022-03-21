@@ -15,10 +15,9 @@
 - Schloss: Lock; A château, palace or manor house.
 - Wettbewerbsfaehig: Competitive
 - Mehlhase: Our Professor for this course. 
-- Gebaeck: 
-- Baeckerei 
-- Hund 
-- Doener 
-- Apfelkuchen 
-- Schloss
-- Eltz
+- Gebaeck: Pastry.
+- Baeckerei: Bakery.
+- Hund: Dog 
+- Doener: A type of meat kebab.
+- Apfelkuchen: Apple cake. 
+- Eltz: A medieval castle between Koblenz and Trier, Germany. 
