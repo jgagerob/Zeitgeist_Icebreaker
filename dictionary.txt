@@ -4,7 +4,7 @@
 - Bratwurst: A type of German sausage.  
 - Hauptstrasse: Main street.
 - Brot: Bread
-- Klimaanlage: Air conditioner.
+- Klimaanlage: Air conditioning.
 - Rammstein: A German metal band. 
 - Porsche: A German luxury automobile manufacturer. 
 - BMW: A German luxury automobile manufacturer. 
