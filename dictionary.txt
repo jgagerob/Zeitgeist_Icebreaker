@@ -1,24 +1,24 @@
-Raesfeld 
-Flughafen
-Berlin
-Bratwurst 
-Hauptstrasse 
-Brot 
-Klimaanlage 
-Rammstein 
-Porsche
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
-wettbewerbsfaehig
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss
-Eltz
+- Raesfeld: A municipality in North Rhine-Westphalia, Germany.
+- Flughafen: Airport.
+- Berlin: The capital of Germany.
+- Bratwurst: A type of German sausage.  
+- Hauptstrasse: Main street.
+- Brot: Bread
+- Klimaanlage: Air conditioner.
+- Rammstein: A German metal band. 
+- Porsche: A German luxury automobile manufacturer. 
+- BMW: A German luxury automobile manufacturer. 
+- Biergarten: Beer Garden, which is an outdoor area where beer and food are served. 
+- Ratskeller: A bar or restaurant that is in the basement of a city hall. 
+- Dirndel: A folk costume. 
+- Lederhose: Short or knee-length leather pants.
+- Schloss: Lock; A château, palace or manor house.
+- Wettbewerbsfaehig: Competitive
+- Mehlhase: Our Professor for this course. 
+- Gebaeck: 
+- Baeckerei 
+- Hund 
+- Doener 
+- Apfelkuchen 
+- Schloss
+- Eltz
