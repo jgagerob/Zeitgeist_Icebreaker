@@ -4,3 +4,4 @@
 - [Benjamin Taylor](https://github.com/andrewseba/kummerspeck_storytime/pull/9)
 - [Jacob Hensley](https://github.com/olipunov/sauerkraut/pull/6)
 - [Nicholas Klopfer](https://github.com/jdbutche/icebreaker_activity/pull/2)
+- [Richard Bernal Garcia](https://github.com/alucas10/ExercisingOurSitzfleisch/pull/6)
